@@ -1,0 +1,9 @@
+.jsbutton {
+    background: blue;
+	color: white;
+	border: solid;
+	padding: 1%;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
